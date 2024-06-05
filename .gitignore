@@ -1,0 +1,5 @@
+# Mengabaikan folder .venv
+.venv/
+
+# Mengabaikan folder notused
+not_used/
