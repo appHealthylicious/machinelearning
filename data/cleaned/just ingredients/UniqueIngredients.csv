@@ -1,8 +1,6 @@
 Ingredient
 ""
 acorn squash
-active
-active yeast
 adobo sauce
 agave
 air fryer potato
@@ -66,7 +64,6 @@ berry
 biscuit
 bittersweet chocolate
 black bean
-black bean black bean
 black bean chili
 black eyed pea
 black olive
@@ -77,12 +74,12 @@ blue cheese crumble
 blue cheese dipping sauce
 blue cheese dressing
 blueberry
+bone
 boston
 boursin
 bowtie pasta
-box duncan hine white cake mix
 bread
-breadcrumb
+bread crumb
 breakfast sausage
 brie
 brisket
@@ -100,7 +97,6 @@ bun
 burrata cheese
 butter
 butter cracker
-butter for griddle
 butter lettuce
 butter lettuce leaves
 butterbean
@@ -150,13 +146,14 @@ cheese tortellini
 cherry
 cherry pie filling
 cherry sauce
-cherry tomatoes
+cherry tomato
 chewy chocolate chip cookie
 chewy ginger molasses cookie
 chia seed
 chicken
 chicken leg
 chicken marinade
+chicken soup
 chicken stock
 chicken tender
 chicken tenderloin
@@ -168,8 +165,8 @@ chili bean
 chili powder
 chili sauce
 chimichurri sauce
-chipotle chili in adobo sauce
-chipotle pepper in adobo sauce
+chipotle chili
+chipotle pepper
 chives
 chocolate
 chocolate bar
@@ -204,6 +201,7 @@ cloves
 cloves garlic
 coarse sugar
 coarsely cheddar cheese
+coating cranberry
 coca cola
 coca cola bbq sauce
 cocktail peanut
@@ -228,8 +226,8 @@ coleslaw
 coleslaw mix
 collard green
 collard green leaves
-condensed cream of celery soup
-condensed cream of chicken soup
+condensed celery soup
+condensed chicken soup
 condensed milk
 condensed milk store bought
 confectioner sugar
@@ -239,6 +237,8 @@ cookie icing
 cooking oil
 cool whip
 corn
+corn kernel
+corn kernel niblet corn
 corn meal
 corn starch
 corn syrup
@@ -250,7 +250,6 @@ cornstarch
 country ham
 crab boil
 crab meat
-crabmeat
 cracker
 cracker crumb
 cranberry
@@ -263,10 +262,6 @@ cream
 cream biscuit
 cream cheese
 cream cheese frosting
-cream of chicken soup
-cream of chicken soup cream of chicken soup of water
-cream of mushroom soup
-cream of tartar
 cream style white corn
 cream topping
 crescent
@@ -282,9 +277,6 @@ cube steak
 cucumber
 cumin
 curry powder
-cut green bean
-cut into
-cut into cube
 dark
 dark brown sugar
 dark chocolate
@@ -339,10 +331,9 @@ flaky white fish
 flank
 flank steak
 flour
-flour for coating cranberry
 flour tortilla
+food color
 food coloring
-for the topping
 french bread
 french bread loaf
 freshly parmesan
@@ -350,23 +341,6 @@ freshly parmesan cheese
 freshly parsley
 freshly peppercorns
 frito corn chip
-frozen
-frozen blackberry
-frozen broccoli floret
-frozen cherry
-frozen corn kernel
-frozen corn kernel niblet corn
-frozen english pea
-frozen kernel corn
-frozen lima bean lima bean
-frozen meatball
-frozen miniature phyllo shell
-frozen pea
-frozen potato
-frozen strawberry
-frozen strawberry in syrup
-frozen topping
-frozen vegetable vegetable
 fruit
 fudge brownies
 fudge icing
@@ -382,8 +356,6 @@ gelatin
 giblet
 ginger
 ginger root
-gluten free
-gluten free oat
 goat cheese
 gochujang
 gorgonzola cheese
@@ -398,7 +370,7 @@ grand marnier
 granny smith apple
 grape
 grape jelly
-grape tomatoes
+grape tomato
 grapefruit
 gravy balsamic roast beef
 great northern bean
@@ -411,6 +383,7 @@ green olive
 green onion
 green peanut
 green pepper
+green tomato
 green tomatoes
 grit
 gruyere cheese
@@ -452,6 +425,8 @@ individual stalk celery
 instant espresso
 instant pot potato
 instant yeast
+into
+into cube
 italian dressing
 italian sausage
 italian seasoning
@@ -492,6 +467,7 @@ lettuce green
 lettuce leaves
 lightly brown sugar
 lima bean
+lima bean lima bean
 lime
 lime juice
 lime wedge
@@ -519,6 +495,7 @@ marshmallow creme
 marshmallow fluff
 mayonnaise
 meat dripping
+meatball
 meringue
 mexican blend cheese
 milk
@@ -529,6 +506,7 @@ milk greek yogurt
 milk powder
 miniature marshmallow
 miniature peanut butter
+miniature phyllo shell
 mint
 mint chocolate chip ice cream
 molasses
@@ -537,6 +515,7 @@ mozzarella
 mozzarella cheese
 mushroom
 mushroom cream sauce
+mushroom soup
 mustard
 naan
 naan bread
@@ -554,7 +533,7 @@ nutmeg
 oat
 of sauce
 oil
-oil tomatoes
+oil tomato
 okra
 okra pod
 olive
@@ -583,6 +562,7 @@ parsley
 parsley leaves
 pasta
 pasta sauce
+pea
 peach
 peach barbeque sauce
 peach bbq sauce
@@ -591,7 +571,6 @@ peach preserves
 peanut
 peanut butter
 peanut butter chip
-peanut butter chocolate chip cookie
 peanut oil
 peanut sauce
 pear
@@ -609,7 +588,7 @@ peppermint extract
 pepperoncini pepper
 pepperoni
 pesto
-petite tomatoes
+petite tomato
 pickle
 pico de gallo
 pie crust
@@ -629,7 +608,7 @@ pistachio
 pita bread
 pizza dough
 pizza sauce
-plum tomatoes
+plum tomato
 poblano pepper
 pomegranate juice
 pomegranate seed
@@ -663,8 +642,6 @@ pumpkin puree
 pumpkin puree pumpkin puree
 pure maple syrup
 queso
-quick cook oat
-quick cooking oat
 quinoa
 radishes
 rainbow sprinkles
@@ -692,7 +669,6 @@ red wine
 red wine vinaigrette
 red wine vinegar
 relish
-restaurant style salsa
 rib
 rib celery
 ribeye steak
@@ -704,14 +680,13 @@ ritz cracker
 roast beef
 roast beef stock
 roast chicken
-roma tomatoes
+roma tomato
 romaine lettuce
 root beer
 rosemary
 rosemary leaves
 rosemary ranch dressing
-rotel tomatoes
-royal blue gel paste food color
+rotel tomato
 rub
 russet
 russet potato
@@ -761,6 +736,7 @@ skirt
 skirt steak
 sleeve ritz cracker
 sleeve saltine cracker
+sliced
 snap pea
 snow pea
 sodium soy sauce
@@ -783,8 +759,8 @@ spicy brown sugar rub
 spicy mustard barbeque sauce
 spicy rub mix
 spinach
-spinach frozen spinach
-spinach frozen spinach thawed
+spinach spinach
+spinach spinach thawed
 spiral ham
 splash balsamic vinegar
 sprig chives
@@ -792,7 +768,6 @@ sprig mint leaves
 sprig rosemary
 sprig thyme
 spring lettuce mix
-spring mix salad green
 spring salad green
 spring salad green mix
 sprinkle fine sea salt
@@ -828,6 +803,7 @@ sugar snap pea
 sugar sprinkles
 sunflower seed
 swiss cheese
+syrup
 tabasco
 tabasco sauce
 taco seasoning
@@ -835,10 +811,10 @@ taco seasoning mix
 tahini
 tangerine
 tart apple
+tartar
 teriyaki sauce
 texas toast
 thawed
-the traditional decoration is coconut flake
 thyme
 tilapia filet
 toffee bit
@@ -846,9 +822,8 @@ tomatillos
 tomato
 tomato paste
 tomato sauce
+tomato tomato
 tomato vinaigrette
-tomatoes
-tomatoes tomatoes
 toothpick
 topping
 tortilla
@@ -874,6 +849,7 @@ vanilla yogurt
 vegetable
 vegetable broth
 vegetable oil
+vegetable vegetable
 velveeta cheese
 venison roast
 venison tenderloin
@@ -898,6 +874,7 @@ white american cheese
 white balsamic vinegar
 white bean
 white cake
+white cake mix
 white cheddar cheese
 white chocolate buttercream
 white chocolate candy melt melting wafer
